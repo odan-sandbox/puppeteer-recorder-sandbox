@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
+    "@puppeteer/recorder": "^0.0.4",
     "@types/jest": "^26.0.19",
     "@types/node": "^14.14.17",
     "@typescript-eslint/eslint-plugin": "^2.34.0",
